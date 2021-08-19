@@ -1,2 +1,2 @@
-h!" \
-        # f"Yeas I dance very awesomly {self.dance} no of times "
+ name ")
+b = input("How much do you earn ")
