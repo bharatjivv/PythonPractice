@@ -1,2 +1,2 @@
- name ")
-b = input("How much do you earn ")
+ 2 % 1 
+# print(x)
